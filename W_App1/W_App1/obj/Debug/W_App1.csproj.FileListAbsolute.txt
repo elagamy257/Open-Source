@@ -1,0 +1,10 @@
+D:\vs.c#\W_App1\W_App1\bin\Debug\W_App1.exe.config
+D:\vs.c#\W_App1\W_App1\bin\Debug\W_App1.exe
+D:\vs.c#\W_App1\W_App1\bin\Debug\W_App1.pdb
+D:\vs.c#\W_App1\W_App1\obj\Debug\W_App1.csproj.AssemblyReference.cache
+D:\vs.c#\W_App1\W_App1\obj\Debug\W_App1.Form1.resources
+D:\vs.c#\W_App1\W_App1\obj\Debug\W_App1.Properties.Resources.resources
+D:\vs.c#\W_App1\W_App1\obj\Debug\W_App1.csproj.GenerateResource.cache
+D:\vs.c#\W_App1\W_App1\obj\Debug\W_App1.csproj.CoreCompileInputs.cache
+D:\vs.c#\W_App1\W_App1\obj\Debug\W_App1.exe
+D:\vs.c#\W_App1\W_App1\obj\Debug\W_App1.pdb
