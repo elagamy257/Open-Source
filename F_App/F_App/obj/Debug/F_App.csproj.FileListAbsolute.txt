@@ -1,7 +1,0 @@
-D:\vs.c#\F_App\F_App\bin\Debug\F_App.exe.config
-D:\vs.c#\F_App\F_App\bin\Debug\F_App.exe
-D:\vs.c#\F_App\F_App\bin\Debug\F_App.pdb
-D:\vs.c#\F_App\F_App\obj\Debug\F_App.csproj.AssemblyReference.cache
-D:\vs.c#\F_App\F_App\obj\Debug\F_App.csproj.CoreCompileInputs.cache
-D:\vs.c#\F_App\F_App\obj\Debug\F_App.exe
-D:\vs.c#\F_App\F_App\obj\Debug\F_App.pdb
