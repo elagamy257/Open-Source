@@ -1,7 +1,0 @@
-D:\vs.c#\Booleans\Booleans\bin\Debug\Booleans.exe.config
-D:\vs.c#\Booleans\Booleans\bin\Debug\Booleans.exe
-D:\vs.c#\Booleans\Booleans\bin\Debug\Booleans.pdb
-D:\vs.c#\Booleans\Booleans\obj\Debug\Booleans.csproj.AssemblyReference.cache
-D:\vs.c#\Booleans\Booleans\obj\Debug\Booleans.csproj.CoreCompileInputs.cache
-D:\vs.c#\Booleans\Booleans\obj\Debug\Booleans.exe
-D:\vs.c#\Booleans\Booleans\obj\Debug\Booleans.pdb
